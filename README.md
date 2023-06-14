@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="mailto:cv.campatten@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white">"/>
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white">
   </a>
   <img src="https://komarev.com/ghpvc/?username=PamCatten&color=8833ff&style=for-the-badge"/>
 </div>
