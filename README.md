@@ -15,5 +15,5 @@
   <img src="https://komarev.com/ghpvc/?username=PamCatten&color=81bbc6&style=for-the-badge"/>
 </div>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=transparent&hide_border=true&card_width=792"/><a>
-<img src="https://github-readme-stats.vercel.app/api?username=PamCatten&show_icons=true&theme=transparent&hide_border=true&card_width=792"/><a>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=transparent&hide_border=true&card_width=500"/><a>
+<img src="https://github-readme-stats.vercel.app/api?username=PamCatten&show_icons=true&theme=transparent&hide_border=true&card_width=500"/><a>
