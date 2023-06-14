@@ -1,5 +1,6 @@
-### Hey there, welcome to my profile
-
+<div id="header" align="center">
+  <img src="./public/github_banner.png"/>
+</div>
 <!--
 **PamCatten/PamCatten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
