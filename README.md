@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/campatten/" target="#blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/campatten/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-428390?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.hackerrank.com/PamCatten/" target="#blank" rel="noreferrer">
+  <a href="https://www.hackerrank.com/PamCatten/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HackerRank-99542c?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="mailto:cv.campatten@outlook.com">
