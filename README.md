@@ -3,8 +3,11 @@
 </div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/campatten/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=8833ff&style=for-the-badge"/>
+</div>
+
 <!--
 **PamCatten/PamCatten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
