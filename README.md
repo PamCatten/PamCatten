@@ -4,15 +4,15 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/campatten/" target="#blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-428390?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://www.hackerrank.com/PamCatten/" target="#blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-99542c?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="mailto:cv.campatten@outlook.com" target="#blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Email&color=00000?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
+  <a href="mailto:cv.campatten@outlook.com">
+    <img src="https://img.shields.io/badge/Email-3c3031?logo=thunderbird&logoColor=white&style=for-the-badge">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PamCatten&color=8833ff&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=PamCatten&color=81bbc6&style=for-the-badge"/>
 </div>
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=transparent&hide_border=true&card_width=792"/><a>
