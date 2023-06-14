@@ -12,7 +12,7 @@
   <a href="mailto:cv.campatten@outlook.com">
     <img src="https://img.shields.io/badge/Email&color=81bbc6?style=for-the-badge&logo=email&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=8833ff&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=PamCatten&color=8833ff&style=for-the-badge"/>
 </div>
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=transparent&hide_border=true&card_width=792"/><a>
