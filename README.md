@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img src="./public/github_banner.png"/>
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/campatten/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge">
+  </a>
 <!--
 **PamCatten/PamCatten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
