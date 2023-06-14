@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=dark&hide_border=true&card_width=500"/></a>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=rising-sun&hide_border=true&card_width=500"/><a>
 
 <!--
 **PamCatten/PamCatten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
