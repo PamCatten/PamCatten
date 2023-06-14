@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<a href="https://git.io/streak-stats">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=transparent&hide_border=true&card_width=792"/><a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=PamCatten&show_icons=true&theme=transparent&hide_border=true&card_width=792"/><a>
 
 <!--
