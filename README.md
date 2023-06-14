@@ -10,9 +10,9 @@
     <img src="https://img.shields.io/badge/HackerRank-99542c?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="mailto:cv.campatten@outlook.com">
-    <img src="https://img.shields.io/badge/Email-81bbc6?logo=thunderbird&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Email-3c3031?logo=thunderbird&logoColor=white&style=for-the-badge">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=PamCatten&color=3c3031&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=PamCatten&color=81bbc6&style=for-the-badge"/>
 </div>
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=transparent&hide_border=true&card_width=792"/><a>
