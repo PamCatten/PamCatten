@@ -5,10 +5,10 @@
   <a href="https://www.linkedin.com/in/campatten/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=8833ff&style=for-the-badge"/>
   <a href="https://www.hackerrank.com/PamCatten/">
     <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=8833ff&style=for-the-badge"/>
 </div>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=transparent&hide_border=true&card_width=792"/><a>
 <img src="https://github-readme-stats.vercel.app/api?username=PamCatten&show_icons=true&theme=transparent&hide_border=true&card_width=792"/><a>
