@@ -3,14 +3,14 @@
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/campatten/">
+  <a href="https://www.linkedin.com/in/campatten/" target="#blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.hackerrank.com/PamCatten/">
+  <a href="https://www.hackerrank.com/PamCatten/" target="#blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HackerRank-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="mailto:cv.campatten@outlook.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white">
+  <a href="mailto:cv.campatten@outlook.com" target="#blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Email&color=00000?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
   </a>
   <img src="https://komarev.com/ghpvc/?username=PamCatten&color=8833ff&style=for-the-badge"/>
 </div>
