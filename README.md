@@ -16,9 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=PamCatten&color=81bbc6&style=for-the-badge"/>
 </div>
 
-I'm a driven, passionate, and relentlessly curious junior software dev, with too much free time on my hands. These days I split my time between learning new technologies, working on projects that excite me, spending time with my family, and playing the occasional video game.
+I'm a driven, passionate, and relentlessly curious junior software dev, with too much free time on my hands. These days I split my time between learning new technologies, working on projects that excite me, spending time with my family, and playing the odd video game.
 <br><br>
-I'm currently looking for in-person and remote Backend / DevOps roles, but am open to any and all opportunities that consider me a good fit. 
+I'm currently looking for in-person and remote Backend / DevOps roles, but am open to any opportunities that consider me a good fit. 
 
 ## GitHub Stats
 <img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=transparent&hide_border=true&card_width=500"/><a>
