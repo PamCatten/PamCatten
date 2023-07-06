@@ -22,6 +22,5 @@ I'm currently looking for in-person and remote Backend / DevOps roles, but am op
 
 ## GitHub Stats
 <img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=transparent&hide_border=true&card_width=500"/><a>
-<img src="https://github-readme-stats.vercel.app/api?username=PamCatten&show_icons=true&theme=transparent&hide_border=true&card_width=500"/><a>
 
 💙💛 Slava Ukraini
