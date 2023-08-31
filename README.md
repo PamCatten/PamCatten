@@ -16,9 +16,9 @@
   <img src="https://komarev.com/ghpvc/?username=PamCatten&color=81bbc6&style=for-the-badge"/>
 </div>
 
-I'm a driven, passionate, and relentlessly curious junior software dev, with more free time than I'd really prefer! Right now I fill my days learning new tech, working on projects that excite me, and spending time with my family. 
+I'm a driven, passionate, and relentlessly curious junior software dev, with more free time than I'd really prefer right now! Currently I fill my days learning new tech, working on projects that excite me, and spending time with my family. 
 <br><br>
-I'm actively on the lookout for entry-level software development roles in the New Hampshire area, so please feel free to connect, I always love to chat.
+I'm actively on the lookout for entry-level software development roles in the New Hampshire area, so please feel free to reach out, I always love to chat!
 
 ## GitHub Stats
 <img src="http://github-readme-streak-stats.herokuapp.com?user=PamCatten&theme=transparent&hide_border=true&card_width=500"/><a>
