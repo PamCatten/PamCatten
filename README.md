@@ -10,7 +10,7 @@
   <a href="https://www.hackerrank.com/PamCatten/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/HackerRank-99542c?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-  <a href="mailto:cv.campatten@outlook.com">
+  <a href="mailto:campatten.dev@outlook.com">
     <img src="https://img.shields.io/badge/Email-3c3031?logo=thunderbird&logoColor=white&style=for-the-badge">
   </a>
   <img src="https://komarev.com/ghpvc/?username=PamCatten&color=81bbc6&style=for-the-badge"/>
